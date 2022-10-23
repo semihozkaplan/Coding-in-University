@@ -1,0 +1,6 @@
+﻿  Account.cpp
+  Costumer.cpp
+  Kaynak.cpp
+C:\Users\semih\source\repos\Practice6\Practice6\Kaynak.cpp(12,13): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  Practice6.vcxproj -> C:\Users\semih\source\repos\Practice6\x64\Debug\Practice6.exe
